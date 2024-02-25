@@ -11,6 +11,6 @@ class PharmacyRespostoryTest extends Specification {
     private PharmacyRespostory pharmacyRespostory;
 
     def "test"() {
-        
+
     }
 }
