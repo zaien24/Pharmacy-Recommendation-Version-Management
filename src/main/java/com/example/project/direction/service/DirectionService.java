@@ -2,7 +2,6 @@ package com.example.project.direction.service;
 
 import com.example.project.api.dto.DocumentDto;
 import com.example.project.api.service.KakaoCategorySearchService;
-import com.example.project.direction.dto.PharmacyDto;
 import com.example.project.direction.entity.Direction;
 import com.example.project.direction.repository.DirectionRepository;
 import com.example.project.pharmacy.service.PharmacySearchService;

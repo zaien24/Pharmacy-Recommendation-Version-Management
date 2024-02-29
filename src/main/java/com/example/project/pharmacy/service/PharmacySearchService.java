@@ -1,6 +1,6 @@
 package com.example.project.pharmacy.service;
 
-import com.example.project.direction.dto.PharmacyDto;
+import com.example.project.pharmacy.dto.PharmacyDto;
 import com.example.project.pharmacy.entity.Pharmacy;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

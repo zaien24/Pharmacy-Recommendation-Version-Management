@@ -1,4 +1,4 @@
-package com.example.project.direction.dto;
+package com.example.project.pharmacy.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

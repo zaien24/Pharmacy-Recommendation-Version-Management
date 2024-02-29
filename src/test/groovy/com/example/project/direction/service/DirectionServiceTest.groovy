@@ -1,7 +1,7 @@
 package com.example.project.direction.service
 
 import com.example.project.api.dto.DocumentDto
-import com.example.project.direction.dto.PharmacyDto
+import com.example.project.pharmacy.dto.PharmacyDto
 import com.example.project.pharmacy.service.PharmacySearchService
 import spock.lang.Specification
 
